@@ -1,6 +1,0 @@
-﻿{
-  Name: Weekly,
-  IsPreSelected: false,
-  DisplayOrder: 1,
-  Id: ObjectId_1
-}

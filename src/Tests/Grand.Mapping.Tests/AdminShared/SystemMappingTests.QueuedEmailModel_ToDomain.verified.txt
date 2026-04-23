@@ -1,7 +1,0 @@
-﻿{
-  From: from@store.com,
-  To: customer@example.com,
-  Subject: Order Confirmation,
-  Body: <p>Thank you!</p>,
-  Id: ObjectId_1
-}

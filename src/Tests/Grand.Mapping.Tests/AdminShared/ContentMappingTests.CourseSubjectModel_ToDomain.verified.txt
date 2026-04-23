@@ -1,6 +1,0 @@
-﻿{
-  Name: Chapter 1,
-  DisplayOrder: 1,
-  CourseId: course-001,
-  Id: ObjectId_1
-}

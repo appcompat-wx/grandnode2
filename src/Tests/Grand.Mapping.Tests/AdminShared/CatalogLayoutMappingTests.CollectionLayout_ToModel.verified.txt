@@ -1,6 +1,0 @@
-﻿{
-  Name: CollectionDefault,
-  ViewPath: CollectionTemplate.Simple,
-  DisplayOrder: 1,
-  Id: cll-001
-}

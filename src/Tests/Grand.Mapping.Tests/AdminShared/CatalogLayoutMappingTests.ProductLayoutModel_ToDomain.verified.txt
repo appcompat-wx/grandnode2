@@ -1,6 +1,0 @@
-﻿{
-  Name: SimpleProduct,
-  ViewPath: ProductTemplate.Simple,
-  DisplayOrder: 5,
-  Id: ObjectId_1
-}

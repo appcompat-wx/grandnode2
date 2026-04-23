@@ -1,5 +1,0 @@
-﻿{
-  Email: subscriber@example.com,
-  Active: true,
-  Id: nls-001
-}

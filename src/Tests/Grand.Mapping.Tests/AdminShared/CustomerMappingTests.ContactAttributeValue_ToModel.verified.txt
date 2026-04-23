@@ -1,7 +1,0 @@
-﻿{
-  Name: Email,
-  DisplayColorSquaresRgb: false,
-  IsPreSelected: true,
-  DisplayOrder: 1,
-  Id: coav-001
-}

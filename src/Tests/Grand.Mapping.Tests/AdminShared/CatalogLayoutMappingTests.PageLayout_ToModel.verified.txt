@@ -1,6 +1,0 @@
-﻿{
-  Name: PageDefault,
-  ViewPath: PageTemplate.Default,
-  DisplayOrder: 1,
-  Id: pgl-001
-}

@@ -1,6 +1,0 @@
-﻿{
-  Name: Red,
-  IsPreSelected: false,
-  DisplayOrder: 1,
-  Id: ppav-1
-}

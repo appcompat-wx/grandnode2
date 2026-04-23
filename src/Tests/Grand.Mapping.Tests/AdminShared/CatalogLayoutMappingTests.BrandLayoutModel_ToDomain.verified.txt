@@ -1,6 +1,0 @@
-﻿{
-  Name: BrandDefault,
-  ViewPath: BrandTemplate.Simple,
-  DisplayOrder: 2,
-  Id: ObjectId_1
-}

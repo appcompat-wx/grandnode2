@@ -1,5 +1,0 @@
-﻿{
-  FriendlyName: Bootstrap Slider,
-  SystemName: Widgets.Slider,
-  IsActive: false
-}

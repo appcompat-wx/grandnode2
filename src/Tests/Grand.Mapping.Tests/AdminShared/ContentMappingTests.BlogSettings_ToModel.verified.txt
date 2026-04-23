@@ -1,8 +1,0 @@
-﻿{
-  Enabled: true,
-  PostsPageSize: 10,
-  AllowNotRegisteredUsersToLeaveComments: false,
-  NotifyAboutNewBlogComments: false,
-  ShowBlogOnHomePage: false,
-  ShowBlogPostsInSearchAutoComplete: false
-}

@@ -1,5 +1,0 @@
-﻿{
-  Name: Defective,
-  DisplayOrder: 1,
-  Id: ObjectId_1
-}

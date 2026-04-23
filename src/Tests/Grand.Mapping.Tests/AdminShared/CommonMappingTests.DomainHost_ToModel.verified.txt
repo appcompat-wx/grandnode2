@@ -1,5 +1,0 @@
-﻿{
-  Url: https://example.com,
-  Primary: true,
-  Id: dh-001
-}
