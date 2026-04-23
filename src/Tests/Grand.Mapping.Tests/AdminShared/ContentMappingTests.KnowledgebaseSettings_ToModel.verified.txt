@@ -1,5 +1,0 @@
-﻿{
-  Enabled: true,
-  AllowNotRegisteredUsersToLeaveComments: false,
-  NotifyAboutNewArticleComments: false
-}

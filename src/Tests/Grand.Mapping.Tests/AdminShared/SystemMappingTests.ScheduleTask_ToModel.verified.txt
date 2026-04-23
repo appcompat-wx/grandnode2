@@ -1,8 +1,0 @@
-﻿{
-  ScheduleTaskName: Grand.Services.Catalog.UpdateExchangeRateTask, Grand.Services,
-  Enabled: true,
-  StopOnError: false,
-  TimeInterval: 60,
-  StoreId: ,
-  Id: st-001
-}

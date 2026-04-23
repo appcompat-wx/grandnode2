@@ -1,5 +1,0 @@
-﻿{
-  Name: Color,
-  Description: Product color,
-  Id: pa-1
-}

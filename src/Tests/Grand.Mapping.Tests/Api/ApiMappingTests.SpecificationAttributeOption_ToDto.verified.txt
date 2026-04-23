@@ -1,5 +1,0 @@
-﻿{
-  Name: Cotton,
-  ColorSquaresRgb: #FFFFFF,
-  Id: sao-1
-}

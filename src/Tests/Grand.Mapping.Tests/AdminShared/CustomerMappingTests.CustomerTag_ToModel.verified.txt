@@ -1,4 +1,0 @@
-﻿{
-  Name: BigSpender,
-  Id: ct-001
-}

@@ -1,6 +1,0 @@
-﻿{
-  Email: newapi@example.com,
-  Password: Secret123!,
-  IsActive: true,
-  Id: ObjectId_1
-}

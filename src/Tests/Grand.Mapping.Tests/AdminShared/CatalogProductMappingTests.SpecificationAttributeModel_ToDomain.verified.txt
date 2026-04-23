@@ -1,9 +1,0 @@
-﻿{
-  Name: Screen Size,
-  DisplayOrder: 1,
-  LimitedToStores: true,
-  Stores: [
-    store-001
-  ],
-  Id: ObjectId_1
-}

@@ -1,6 +1,0 @@
-﻿{
-  Name: 15 inch,
-  ColorSquaresRgb: #FFFFFF,
-  DisplayOrder: 1,
-  Id: ObjectId_1
-}

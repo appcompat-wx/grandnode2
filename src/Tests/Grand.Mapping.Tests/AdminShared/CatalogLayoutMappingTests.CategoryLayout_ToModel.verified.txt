@@ -1,6 +1,0 @@
-﻿{
-  Name: DefaultLayout,
-  ViewPath: CategoryTemplate.Simple,
-  DisplayOrder: 1,
-  Id: cl-001
-}

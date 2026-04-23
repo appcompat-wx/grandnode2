@@ -1,5 +1,0 @@
-﻿{
-  Email: api@example.com,
-  IsActive: true,
-  Id: ObjectId_1
-}
